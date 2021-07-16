@@ -1,0 +1,6 @@
+# Expected working hours per regular work day
+working_hours = 8
+
+# If day has less that this many hours, it will not be counted as a day where your was actually
+# supposed to work.
+ignore_worked_hours_below = 1
